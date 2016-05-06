@@ -29,7 +29,7 @@ The submission should consist of a link to (this) Github repo with the R markdow
 
 **HTML report page (gh-pages)**
 
-Please open  [this GitHub link](http://http://desiregasore.github.io//).
+Please open  [this GitHub link](http://desiregasore.github.io//).
 
 The HTML file is in the gh-pages branch.
 The R markdown file (Rmd) is in the master branch.
